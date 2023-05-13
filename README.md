@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @milkportal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Привет, это @milkportal
+- 👀 Вы никогда не думали, почему у меня такое имя?
+- 🌱 Я не знаю. Но знаете, что я знаю?
+- 💞️ Я знаю, что мне нравится Python.
+- 📫 И я знаю, что я стану хорошим программистом.
 
 <!---
 milkportal/milkportal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
